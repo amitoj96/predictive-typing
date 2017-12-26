@@ -24,3 +24,4 @@ Finally, a text editor with the predictive typing capabilities is developed.A su
                 3.  Anirudh Kumar Bansal  
                 4.  Lakshit Bhutani
 
+[[Code]](https://github.com/amitojdeep/predictive-typing) [[Report]](https://github.com/amitojdeep/predictive-typing/blob/master/report.pdf)
